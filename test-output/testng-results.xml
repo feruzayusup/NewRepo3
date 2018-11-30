@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="8238" started-at="2018-07-05T01:02:27Z" finished-at="2018-07-05T01:02:36Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="8238" started-at="2018-07-05T01:02:27Z" finished-at="2018-07-05T01:02:36Z">
+      <class name="com.selenium_maruf.Kayak">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.selenium_maruf.Kayak@39c0f4a]" name="setUp" is-config="true" duration-ms="4664" started-at="2018-07-05T01:02:27Z" finished-at="2018-07-05T01:02:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="fromToInput()[pri:0, instance:com.selenium_maruf.Kayak@39c0f4a]" name="fromToInput" duration-ms="3537" started-at="2018-07-05T01:02:32Z" finished-at="2018-07-05T01:02:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fromToInput -->
+      </class> <!-- com.selenium_maruf.Kayak -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
